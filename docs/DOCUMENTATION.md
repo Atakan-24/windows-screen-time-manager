@@ -2,6 +2,10 @@
 
 [Zur Übersicht](../README.md) · [English documentation](DOCUMENTATION.en.md) · [Einrichtung](ANLEITUNG.md)
 
+[![Video: Windows-Fehlerdiagnose live ansehen](video-vorschau.jpg)](https://youtube.com/shorts/ujELrVr45qw)
+
+**▶ Video ansehen: Windows-Fehlerdiagnose live**
+
 ![Live-Ansicht der Fehlerdiagnose auf dem Monitor](live-fehlerdiagnose.jpg)
 
 *Live-Ansicht der Fehlerdiagnose auf dem echten Bildschirm (Foto vom Monitor)*

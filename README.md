@@ -6,6 +6,10 @@ Systemweite Zeiterfassung läuft im Hintergrund; Status- und Sperroberflächen e
 
 [English](README.en.md) · [Vollständige Dokumentation und Screenshots](docs/DOCUMENTATION.md) · [Einrichtung und Bedienung](docs/ANLEITUNG.md)
 
+[![Video: Windows-Fehlerdiagnose live ansehen](docs/video-vorschau.jpg)](https://youtube.com/shorts/ujELrVr45qw)
+
+**▶ Video ansehen: Windows-Fehlerdiagnose live**
+
 ![Live-Ansicht der Fehlerdiagnose auf dem Monitor](docs/live-fehlerdiagnose.jpg)
 
 *Live-Ansicht der Fehlerdiagnose auf dem echten Bildschirm (Foto vom Monitor)*

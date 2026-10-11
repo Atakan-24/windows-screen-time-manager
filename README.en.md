@@ -8,6 +8,12 @@ System-wide time tracking runs in the background; status and lock interfaces app
 
 ![Administration window: screen-time limits](docs/tool-limits.png)
 
+## Live view of the error diagnosis
+
+This is what the error diagnosis looks like in real use on the actual screen (photo of the monitor):
+
+![Live view of the error diagnosis on the monitor](docs/live-fehlerdiagnose.jpg)
+
 ## Features
 
 - Daily limits, grace periods, bonus time, and a configurable daily reset.

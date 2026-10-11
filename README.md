@@ -8,6 +8,12 @@ Systemweite Zeiterfassung läuft im Hintergrund; Status- und Sperroberflächen e
 
 ![Administrationsfenster: Bildschirmzeit-Grenzwerte](docs/tool-limits.png)
 
+## Live-Ansicht der Fehlerdiagnose
+
+So sieht die Fehlerdiagnose im Betrieb auf dem echten Bildschirm aus (Foto vom Monitor):
+
+![Live-Ansicht der Fehlerdiagnose auf dem Monitor](docs/live-fehlerdiagnose.jpg)
+
 ## Funktionen
 
 - Tageslimits, Nachspielzeit, Bonuszeit und konfigurierbarer Tageswechsel.

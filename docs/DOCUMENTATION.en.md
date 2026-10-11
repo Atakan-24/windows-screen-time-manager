@@ -2,6 +2,10 @@
 
 [Overview](../README.en.md) · [Deutsche Dokumentation](DOCUMENTATION.md) · [Setup guide](GUIDE.en.md)
 
+![Live view of the error diagnosis on the monitor](live-fehlerdiagnose.jpg)
+
+*Live view of the error diagnosis on the actual screen (photo of the monitor)*
+
 ## Contents
 
 1. [Background](#background)

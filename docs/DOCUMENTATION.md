@@ -2,6 +2,10 @@
 
 [Zur Übersicht](../README.md) · [English documentation](DOCUMENTATION.en.md) · [Einrichtung](ANLEITUNG.md)
 
+![Live-Ansicht der Fehlerdiagnose auf dem Monitor](live-fehlerdiagnose.jpg)
+
+*Live-Ansicht der Fehlerdiagnose auf dem echten Bildschirm (Foto vom Monitor)*
+
 ## Inhalt
 
 1. [Ausgangslage](#ausgangslage)

@@ -6,6 +6,14 @@ System-wide time tracking runs in the background; status and lock interfaces app
 
 [Deutsch](README.md) · [Full documentation and screenshots](docs/DOCUMENTATION.en.md) · [Setup and usage guide](docs/GUIDE.en.md)
 
+[![Video: watch the Windows error diagnosis live](docs/video-vorschau.jpg)](https://youtube.com/shorts/ujELrVr45qw)
+
+**▶ Watch the video: Windows error diagnosis live**
+
+![Live view of the error diagnosis on the monitor](docs/live-fehlerdiagnose.jpg)
+
+*Live view of the error diagnosis on the actual screen (photo of the monitor)*
+
 ![Administration window: screen-time limits](docs/tool-limits.png)
 
 ## Features
